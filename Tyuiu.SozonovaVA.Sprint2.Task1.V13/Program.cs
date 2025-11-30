@@ -4,7 +4,7 @@ class Program
     static void Main(string[] args)
     {
         DataService service1 = new DataService();
-        Console.Title = "Спринт #2 | Выполнила: Созонова В. А. | АСОиУб-25 -1";
+        Console.Title = "Спринт #2 | Выполнила: Созонова В. А. | АСОиУб-25-1";
         Console.WriteLine("***************************************************************************");
         Console.WriteLine("* Спринт #2                                                               *");
         Console.WriteLine("* Тема: Логичесие операции                                                *");
