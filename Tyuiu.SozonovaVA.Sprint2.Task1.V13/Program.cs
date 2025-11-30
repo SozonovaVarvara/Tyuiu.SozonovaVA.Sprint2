@@ -16,7 +16,7 @@ class Program
         Console.WriteLine("*Написать программу из операций сравнений (==, !=, <, >, <=, >=,          *");
         Console.WriteLine("*последовательность операций не должна нарушаться) и арифметических       *");
         Console.WriteLine("*выражений, которая вернет логическую последовательность(массив):         *");
-        Console.WriteLine("*(False, True, True, True, True, False),), при x = 3105, y = 77           *");
+        Console.WriteLine("*(True, True, True, True, True, False)                                    *");
         Console.WriteLine("***************************************************************************");
         Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
         Console.WriteLine("***************************************************************************");
