@@ -41,7 +41,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.SozonovaVA.Sprint2.Ta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.SozonovaVA.Sprint2.Task4.V22.Lib", "Tyuiu.SozonovaVA.Sprint2.Task4.V22.Lib\Tyuiu.SozonovaVA.Sprint2.Task4.V22.Lib.csproj", "{B6B7EF59-0E0E-4869-A218-BB77192FB261}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.SozonovaVA.Sprint2.Task.4.V22.Test", "Tyuiu.SozonovaVA.Sprint2.Task.4.V22.Test\Tyuiu.SozonovaVA.Sprint2.Task.4.V22.Test.csproj", "{C5AA4A48-75AC-4660-93BA-A0BD5FC334DA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.SozonovaVA.Sprint2.Task4.V22.Test", "Tyuiu.SozonovaVA.Sprint2.Task.4.V22.Test\Tyuiu.SozonovaVA.Sprint2.Task4.V22.Test.csproj", "{C5AA4A48-75AC-4660-93BA-A0BD5FC334DA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
