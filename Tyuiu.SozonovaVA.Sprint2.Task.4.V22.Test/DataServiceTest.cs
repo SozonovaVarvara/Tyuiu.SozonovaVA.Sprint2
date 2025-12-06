@@ -1,5 +1,5 @@
 ﻿using Tyuiu.SozonovaVA.Sprint2.Task4.V22.Lib;
-namespace Tyuiu.SozonovaVA.Sprint2.Task._4.V22.Test
+namespace Tyuiu.SozonovaVA.Sprint2.Task4.V22.Test
 {
     [TestClass]
     public sealed class DataServiceTest
